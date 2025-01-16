@@ -1,1 +1,1 @@
-## CPSC 471 Project ![ScreenShot](/Users/falahsheikh/Desktop/cpsc471/Runergy/images/runergy_icon.png)
+## CPSC 471 Project ![ScreenShot](/images/runergy_icon.png)
